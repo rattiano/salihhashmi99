@@ -18,7 +18,6 @@
 - 📄 Know about my experiences [check my resume](https://www.goodcv.com/cv/3940f19ce8aa672be30eff2e0b2464b2)
 
 - ⚡ Fun fact **have a great sense of humor**
-<br>
 
 <h3>Github Trophies and Achievements</h3>
 <p> **GitHub Trophies** are fun, visual badges that showcase the GitHub achievements using a third-party service. It is developed by the open-source community. These are like achievement badges for GitHub activity. These trophies are auto-generated based on your contributions and behaviors on GitHub. 
