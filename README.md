@@ -16,7 +16,11 @@
 
 - ⚡ Fun fact **have a great sense of humor**
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihhashmi99" alt="salihhashmi99" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=salihhashmi99&margin-w=15&margin-h=15" alt="salihhashmi99" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
