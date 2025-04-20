@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Salih Tanveer Hashmi</h1>
 <h3 align="center">A passionate Software Engineer from Islamabad, Pakistan</h3>
 
-<img align="right" alt="coding" width='400px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gReLR6hZjwyBxHmfLN1AVwHaFj%26pid%3DApi&f=1&ipt=a58faca9d45dc75b6a7ad4c5306233ac99dfaecaac9c62f89dfef82018983e7a&ipo=images">
+<img align="right" alt="coding" width="400px" src="https://yourdirectimageurl.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salihhashmi99" alt="salihhashmi99" /></a> </p>
 
