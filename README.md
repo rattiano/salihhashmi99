@@ -1,4 +1,5 @@
-![logo](https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png)
+<!--![logo](https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png)-->
+<img src="https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png?raw=true" alt="GitHub Banner" style="width:100%;" />
 <h1 align="center">Hi 👋, I'm Muhammad Salih Tanveer Hashmi</h1>
 <h3 align="center">A passionate Software Engineer from Islamabad, Pakistan</h3>
 
