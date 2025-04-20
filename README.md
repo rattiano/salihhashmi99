@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **have a great sense of humor**
 <br>
+
+<h3>Github Trophies and Achievements</h3>
+<p> **GitHub Trophies** are fun, visual badges that showcase the GitHub achievements using a third-party service. It is developed by the open-source community. These are like achievement badges for GitHub activity. These trophies are auto-generated based on your contributions and behaviors on GitHub. 
+</p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=salihhashmi99&margin-w=15&margin-h=15" alt="salihhashmi99" />
